@@ -6,3 +6,4 @@ Git is free software
 Git tracks changes
 Git tracks changes of files
 creating a new branch  is quick
+creating a new branch is quick AND simple
