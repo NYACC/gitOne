@@ -5,4 +5,5 @@ Git is a distributed version control system
 Git is free software
 Git tracks changes
 Git tracks changes of files
-creating a new branch  is quick
+creating a new branch is quick
+Creating a new branch is quick & simple.
